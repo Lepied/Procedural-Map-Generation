@@ -1,6 +1,6 @@
 # Procedural-Map-Genration
  For Unity
-
+[![Download](https://img.shields.io/badge/Download-.unitypackage-blue?style=for-the-badge&logo=unity)](https://github.com/Lepied/Procedural-Map-Generation/releases/tag/v1.0.0))
 # 팀 프로젝트 'Dorim-Survival' 구현 중 제작한 기능
 # 절차적 맵 생성 알고리즘 구현
 
